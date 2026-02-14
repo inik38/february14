@@ -2,6 +2,9 @@
 
 > **Специально к 14 февраля: история о самой искренней и бескорыстной любви.**
 
+![Верная любовь: Человек и Собака](dog-person.png)
+
+
 ![Game Preview](https://img.shields.io/badge/Game-Valentine's_Day-red?style=for-the-badge&logo=heart)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
 ![Pygame](https://img.shields.io/badge/Library-Pygame-green?style=for-the-badge&logo=pygame)
@@ -70,3 +73,5 @@ python main.py
 ---
 
 **С любовью к собакам и программированию!** 🦴❤️
+
+
